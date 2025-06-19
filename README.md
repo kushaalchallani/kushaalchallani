@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kushaal!
 🔭 I’m currently working on [Unity Game Dev](https://github.com/kushaalchallani/kitchenchaos)<br/>
-🌱 I’m currently learning **C Sharp**<br/>
+🌱 I’m currently learning **Unity & C Sharp**<br/>
 📫 Reach me through - **kushaal147@gmail.com** or [Linkedin](https://linkedin.com/in/kushaalchallani)<br/>
 ⚡ Fun fact **I can tell the weather better than a weather app — just by stepping outside.**<br/>
 
