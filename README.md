@@ -1,29 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=150&section=header)
 
-# 👋 Hi, I'm Kushaal!
-🔭 I’m currently working on [Unity Game Dev](https://github.com/kushaalchallani/kitchenchaos)<br/>
-🌱 I’m currently learning **Unity & C Sharp**<br/>
-📫 Reach me through - **kushaal147@gmail.com** or [Linkedin](https://linkedin.com/in/kushaalchallani)<br/>
-⚡ Fun fact **I can tell the weather better than a weather app — just by stepping outside.**<br/>
+<h1 align="center">Hey, I'm Kushaal!</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=kushaalchallani&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Game Developer</h3>
 
+<p align="center">
+  I enjoy building software, exploring intelligent technologies, and turning ideas into practical applications.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/kushaalchallani">LinkedIn</a> •
+  <a href="mailto:kushaal147@gmail.com">Email</a> •
+  <a href="https://github.com/kushaalchallani">GitHub</a>
+</p>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+### About Me
+
+- Building full-stack applications and exploring AI-powered solutions.
+- Interested in Artificial Intelligence, Machine Learning, and predictive systems.
+- Developing games and interactive experiences using Unity.
+- Enjoy working on backend systems, automation, and real-world problem solving.
+- Constantly learning new technologies and turning ideas into projects.
+
+---
+
+## What I've Worked On
+
+- **Asahi** — A mental wellness and real-world connection platform featuring personalized daily missions. Built with React, TypeScript, FastAPI, and PostgreSQL.
+
+- **[Dynamic Supply Risk Prediction](https://github.com/kushaalchallani/dynamic-supply-chain-risk-prediction)** — A project focused on identifying and predicting potential supply chain risks through data-driven approaches.
+
+- **[Workflow Optimizer](https://github.com/kushaalchallani/workflow-optimizer)** — A smart meeting scheduling application that prioritizes tasks and automatically rearranges schedules based on priority and availability.
+
+- **[Job Finder](https://github.com/kushaalchallani/job-finder-app)** — A LinkedIn-inspired job search and professional networking platform.
+
+- **[Kitchen Chaos](https://github.com/kushaalchallani/kitchenchaos)** — A 3D cooking game developed using Unity and C#.
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend & Mobile Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+### GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushaalchallani&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaalchallani&layout=compact&theme=material-palenight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer)
