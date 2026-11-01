@@ -71,13 +71,6 @@
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushaalchallani&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaalchallani&layout=compact&theme=material-palenight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
 <p align="center">
   <i>Always learning, always building.</i>
 </p>
