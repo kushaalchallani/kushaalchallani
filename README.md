@@ -28,7 +28,7 @@
 
 ## What I've Worked On
 
-- **Asahi** — A mental wellness and real-world connection platform featuring personalized daily missions. Built with React, TypeScript, FastAPI, and PostgreSQL.
+- **[Asahi](https://github.com/kushaalchallani/Asahi)** — A mental wellness and real-world connection platform featuring personalized daily missions. Built with React, TypeScript, FastAPI, and PostgreSQL.
 
 - **[Dynamic Supply Risk Prediction](https://github.com/kushaalchallani/dynamic-supply-chain-risk-prediction)** — A project focused on identifying and predicting potential supply chain risks through data-driven approaches.
 
